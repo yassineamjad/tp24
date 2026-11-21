@@ -1,0 +1,9 @@
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/cotroller/CategorieController.java
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/repository/CategorieRepository.java
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/service/AppareilService.java
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/service/CategorieService.java
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/entity/Categorie.java
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/cotroller/AppareilController.java
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/AppareilApplication.java
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/entity/Appareil.java
+/home/yassineamjad/smarthouse/Smart_Home_back/src/main/java/com/example/appareil/repository/AppareilRepository.java
